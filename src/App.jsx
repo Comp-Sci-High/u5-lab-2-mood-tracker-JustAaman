@@ -9,11 +9,11 @@ const [mood, setMood] = useState("Tired");
 
 
   // 5. Create useState variables for energy called energy and setEnergy, make the default 3
-const [mood, setMood] = useState(3);
+const [energy, setEnergy] = useState(3);
 
 
   // 6. Create useState variables for school mode called schoolMode and setSchoolMode, make the default true
-const [mood, setMood] = useState(true);
+const [schoolMode, setSchoolMode] = useState(true);
 
   // 7. Create a function called handleHappy
   // When the function runs:
